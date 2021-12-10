@@ -1,4 +1,4 @@
 <?php
-header("Location: production/linkedin_friend.html");
+header("Location: production");
 exit;
 ?>
